@@ -1,0 +1,8 @@
+var searchData=
+[
+  ['default_0',['Plain prefix layout (default)',['../d1/dce/md_getting-started.html#autotoc_md36',1,'']]],
+  ['directory_20layout_1',['Directory layout',['../index.html#autotoc_md10',1,'']]],
+  ['disk_20image_2',['Disk image',['../d1/dce/md_getting-started.html#autotoc_md38',1,'']]],
+  ['documentation_3',['Documentation',['../index.html#autotoc_md5',1,'']]],
+  ['drive_20a_20client_20yourself_4',['Drive a client yourself',['../d1/dce/md_getting-started.html#autotoc_md47',1,'']]]
+];
